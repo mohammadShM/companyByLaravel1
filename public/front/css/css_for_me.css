@@ -1,0 +1,5 @@
+.bg-login-lock {
+    /*noinspection CssUnknownTarget*/
+    background: url("/front/img/login_lock.jpg") center center no-repeat fixed;
+    background-size: cover;
+}

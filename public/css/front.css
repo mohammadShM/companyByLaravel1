@@ -1,0 +1,23 @@
+.slider-for-me {
+    height: 700px !important;
+    max-height: 700px !important;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "Comic Sans MS", serif !important;
+}
+
+.single-blog-img-for-me a img {
+    width: 100% !important;
+    height: 200px !important;
+}
+
+.post-img a img {
+    width: 100px !important;
+    height: 80px !important;
+}
+
+.imgSingle{
+    width: 100% !important;
+    height: 300px !important;
+}

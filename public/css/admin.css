@@ -1,0 +1,90 @@
+body {
+    /*noinspection CssUnknownTarget*/
+    background: url("/front/img/admin_panel_bg.jpg") center center no-repeat fixed;
+    background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: white;
+}
+
+.main-section-for-me {
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 1px 1px rgba(100, 100, 100, 0.2);
+    border-radius: 25px;
+}
+
+.h1-title-for-me {
+    font-weight: bolder;
+}
+
+.h4-title-for-me {
+    font-weight: bolder;
+    color: whitesmoke;
+}
+
+.text-form-for-me {
+    border: 2px inset lightgray;
+}
+
+.textarea-form-for-me {
+    border: 2px inset lightgray;
+    height: 150px !important;
+    resize: none;
+}
+
+.textarea-form-for-me-big {
+    border: 2px inset lightgray;
+    height: 300px !important;
+    resize: none;
+}
+
+.label-form-for-me {
+    font-weight: bolder;
+}
+
+.submit-form-for-me {
+    font-weight: bolder;
+}
+
+.alert-form-for-me {
+    background-color: green;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 15px !important;
+    transition: all 0.3s ease;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:active,
+.navbar-dark .navbar-nav .nav-link:focus {
+    background-color: deeppink !important;
+}
+
+.navbar-dark .navbar-brand {
+    font-size: 20px !important;
+    transition: all 0.3s ease;
+}
+
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .navbar-brand:active,
+.navbar-dark .navbar-brand:focus {
+    background-color: deepskyblue !important;
+}
+
+.text-error-for-slider {
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.text-error-for-slider p {
+    text-align: center;
+    font-size: 20px;
+    background: rgba(200, 200, 200, 0.8);
+    width: 50%;
+    padding: 2px 10px;
+    margin: 8px auto;
+}
